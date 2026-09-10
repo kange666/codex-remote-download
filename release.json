@@ -1,0 +1,28 @@
+{
+  "version": "0.4.1",
+  "publishedAt": "2026-09-10",
+  "releaseUrl": "https://github.com/kange666/codex-remote-download/releases/tag/v0.4.1",
+  "sourceCommit": "a8a9b2fbbcea0fb24eb4ac04c2dd94b4335be9fb",
+  "checksumsUrl": "https://github.com/kange666/codex-remote-download/releases/download/v0.4.1/SHA256SUMS.txt",
+  "installer": {
+    "name": "CodexRemote-0.4.1-Setup.exe",
+    "sizeBytes": 711459874,
+    "sizeText": "678.50 MiB",
+    "sha256": "168D5A6AC8BCE3191E5F8A085583C36FCCE8BD762BC92F5EC070824942A31C50",
+    "url": "https://github.com/kange666/codex-remote-download/releases/download/v0.4.1/CodexRemote-0.4.1-Setup.exe"
+  },
+  "portable": {
+    "name": "CodexRemote-0.4.1-Portable.zip",
+    "sizeBytes": 712385139,
+    "sizeText": "679.38 MiB",
+    "sha256": "D9A90F4C2A51D72DEF40A071D56B460D77445CF3965E4165BAEB72B846D27DEA",
+    "url": "https://github.com/kange666/codex-remote-download/releases/download/v0.4.1/CodexRemote-0.4.1-Portable.zip"
+  },
+  "source": {
+    "name": "CodexRemote-0.4.1-Source.zip",
+    "sizeBytes": 4077194,
+    "sizeText": "3.89 MiB",
+    "sha256": "2F0DC102C9505DD71DEBB73B7098AC252BACB8CD05A32ADFCB177BD75EF3659D",
+    "url": "https://github.com/kange666/codex-remote-download/releases/download/v0.4.1/CodexRemote-0.4.1-Source.zip"
+  }
+}
