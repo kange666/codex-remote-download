@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256"><rect width="256" height="256" rx="54" fill="#315f94"/><rect x="102" y="46" width="52" height="108" rx="26" fill="#fff"/><path d="M77 119v15a51 51 0 0 0 102 0v-15M128 185v24M101 209h54" fill="none" stroke="#b8d7f5" stroke-width="13" stroke-linecap="round"/><circle cx="192" cy="66" r="17" fill="#6ee0af"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 490 490">
+  <!-- 按用户确认的展示稿重建矢量轮廓；独立触发圆点与弯曲指尖保持分离。 -->
+  <rect width="490" height="490" rx="106" fill="#151B2C"/>
+  <g fill="#838CFF">
+    <path d="M231 124C250 111 273 116 285 136C297 156 290 177 272 190L211 232C190 247 181 266 185 283C190 306 215 315 237 304L310 265C331 254 347 261 348 276C348 291 334 312 316 332C284 367 244 383 202 383C143 383 98 350 94 299C88 248 109 211 148 183Z"/>
+    <circle cx="348" cy="179" r="39"/>
+  </g>
+</svg>

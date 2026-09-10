@@ -1,0 +1,11 @@
+{
+  "version": "0.4.10",
+  "notes": "指间 ZHIJIAN 0.4.10",
+  "pub_date": "2026-09-10T09:26:21Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYmdlNFhqQ0ViVTU1Ym5TSUgrTjRBU0FpanFXY1dKTUU1V2dRM2prTXh4STMxODJJQlNsMGZaUFJLN3lHb2Y2dG1vRU0rQjUrY0t6RU1QSVYvd3lCQ0FUZTZmWHhIaFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDMyMjM1CWZpbGU6Wmhpamlhbi0wLjQuMTAteDY0LXNldHVwLmV4ZQpQUkNyU0lIbnowNGltWGlhZk44dUJrNlExRkE1UkVWKzR0eFk4SndWM1R2Y1hNbVJST2lzdE9UYnRtWTB5STZYZ21EVkhrSkkzcXVmenRoT2dTU2ZDUT09Cg==",
+      "url": "https://github.com/kange666/codex-remote-download/releases/download/v0.4.10/Zhijian-0.4.10-x64-setup.exe"
+    }
+  }
+}
