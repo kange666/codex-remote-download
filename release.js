@@ -4,7 +4,7 @@ async function loadRelease() {
     const response = await fetch('release.json', { cache: 'no-store' });
     if (!response.ok) throw new Error('版本清单读取失败');
     const release = await response.json();
-    if (release.version !== '0.4.10') throw new Error('版本不一致');
+    if (release.version !== '0.4.12') throw new Error('版本不一致');
     const safeUrl = (value) => {
       const url = new URL(value);
       if (url.origin !== 'https://github.com' || !url.pathname.startsWith('/kange666/codex-remote-download/releases/')) throw new Error('下载地址不正确');
@@ -21,7 +21,7 @@ async function loadRelease() {
     document.getElementById('sourceDownload').href = safeUrl(release.source.url);
     document.getElementById('checksumsDownload').href = safeUrl(release.checksumsUrl);
     document.getElementById('releaseLink').href = safeUrl(release.releaseUrl);
-    document.getElementById('releaseStatus').textContent = '0.4.10 Windows 版 · 安装包与便携版包含本地识别资源';
+    document.getElementById('releaseStatus').textContent = '0.4.12 Windows 版 · 安装包与便携版包含本地识别资源';
   } catch {
     document.getElementById('releaseStatus').textContent = '版本信息读取失败，请打开 GitHub 版本说明查看下载与校验值。';
   }
