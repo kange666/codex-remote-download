@@ -1,27 +1,27 @@
 {
-  "version": "0.4.10",
-  "publishedAt": "2026-09-10",
-  "releaseUrl": "https://github.com/kange666/codex-remote-download/releases/tag/v0.4.10",
-  "checksumsUrl": "https://github.com/kange666/codex-remote-download/releases/download/v0.4.10/SHA256SUMS.txt",
+  "version": "0.4.12",
+  "publishedAt": "2026-09-11",
+  "releaseUrl": "https://github.com/kange666/codex-remote-download/releases/tag/v0.4.12",
+  "checksumsUrl": "https://github.com/kange666/codex-remote-download/releases/download/v0.4.12/SHA256SUMS.txt",
   "installer": {
-    "name": "Zhijian-0.4.10-x64-setup.exe",
-    "sizeBytes": 711662049,
+    "name": "Zhijian-0.4.12-x64-setup.exe",
+    "sizeBytes": 711661073,
     "sizeText": "678.69 MiB",
-    "sha256": "586b50021b389b823b1d2b7e350f6daa62a0d7aa328e62a8bc493a290de9ed3e",
-    "url": "https://github.com/kange666/codex-remote-download/releases/download/v0.4.10/Zhijian-0.4.10-x64-setup.exe"
+    "sha256": "3190cd27f168ac5a008fedf56c4c2e336bdfcf39cca4e88cb2967c40bbea2e67",
+    "url": "https://github.com/kange666/codex-remote-download/releases/download/v0.4.12/Zhijian-0.4.12-x64-setup.exe"
   },
   "portable": {
-    "name": "Zhijian-0.4.10-Portable.zip",
-    "sizeBytes": 712586813,
-    "sizeText": "679.58 MiB",
-    "sha256": "08f090ac5b398cea5e5b72e94bff82eeceda5672a3765c7d56a4c18b65bd3ebc",
-    "url": "https://github.com/kange666/codex-remote-download/releases/download/v0.4.10/Zhijian-0.4.10-Portable.zip"
+    "name": "Zhijian-0.4.12-Portable.zip",
+    "sizeBytes": 711179090,
+    "sizeText": "678.23 MiB",
+    "sha256": "0b6bc330821466f17c274cd77c52be22fed7767cdcde55032bf62a07031a6773",
+    "url": "https://github.com/kange666/codex-remote-download/releases/download/v0.4.12/Zhijian-0.4.12-Portable.zip"
   },
   "source": {
-    "name": "Zhijian-0.4.10-Source.zip",
-    "sizeBytes": 4237283,
-    "sizeText": "4.04 MiB",
-    "sha256": "bf7a34879ecd8b6cbb1a66c610839a8545a77294c128dc844a721c34bbdccc57",
-    "url": "https://github.com/kange666/codex-remote-download/releases/download/v0.4.10/Zhijian-0.4.10-Source.zip"
+    "name": "Zhijian-0.4.12-Source.zip",
+    "sizeBytes": 4250533,
+    "sizeText": "4.05 MiB",
+    "sha256": "f4cdfbfea39e00114f6d66416984288cdf145070d535c3f7a75bf5869e0c3aae",
+    "url": "https://github.com/kange666/codex-remote-download/releases/download/v0.4.12/Zhijian-0.4.12-Source.zip"
   }
 }
