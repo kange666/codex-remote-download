@@ -1,11 +1,11 @@
 {
-  "version": "0.4.12",
-  "notes": "指间 ZHIJIAN 0.4.12",
-  "pub_date": "2026-09-11T05:25:34Z",
+  "version": "0.4.16",
+  "notes": "指间 0.4.16：TV 长按可独立配置应用，短按保留模式切换。",
+  "pub_date": "2026-11-03T07:55:08Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/kange666/codex-remote-download/releases/download/v0.4.12/Zhijian-0.4.12-x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYmdlNFhqQ0ViVXc1dEpzdll6YjlYNEpYMDhtK0I5K0pvTmw3UENPK3lNSkNsb09ibEdubDNlQmxvOGxSdGtZQW9sZGlnMEFRamFXWUhHS1hYaThTeWZLd2lVNG1FNVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTA0MDkzCWZpbGU6Wmhpamlhbi0wLjQuMTIteDY0LXNldHVwLmV4ZQpZYU5QaElYVlo2NDNiNnE4T2NJM09tTkV2MkR1bm94dVVkQUdPdHI4d1NVeTlmQ2V4WDMxRnRER1ZWS1hlMkJKUlVWdDNJTzZ5SDJla3duTjIvMW1BUT09Cg=="
+      "url": "https://github.com/kange666/codex-remote-download/releases/download/v0.4.16/Zhijian-0.4.16-x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYmdlNFhqQ0ViVTBvNzllRDdDcVBrTzFGQ3FJYXNPNDlBc1pRTmVKcTRFNE40Yys2OW1pQ1FVZC8xZERUQTBQRkJvYmZ6RjY3OG1FRWlxaURtSmJxQmpINGYxczNVZFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjkyMzIyCWZpbGU6Wmhpamlhbi0wLjQuMTYteDY0LXNldHVwLmV4ZQphdUNXbHg2dVVib3VUNVNVTkRIZUIxWlZVZXNCVmF1ajVtcmZxcDdoS0V5WVFsSE9selFOd0FtaktaNG5rRUR2ZnJYSkRRTGtQWDlzMklBd3k5azVDUT09Cg=="
     }
   }
 }
