@@ -1,11 +1,11 @@
 {
-  "version": "0.4.16",
-  "notes": "指间 0.4.16：TV 长按可独立配置应用，短按保留模式切换。",
-  "pub_date": "2026-11-03T07:55:08Z",
+  "version": "0.4.18",
+  "notes": "指间 0.4.18：修复 Codex 流式语音只填入首字，并保留与输入提示同名的正文。",
+  "pub_date": "2026-11-16T05:14:07Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/kange666/codex-remote-download/releases/download/v0.4.16/Zhijian-0.4.16-x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYmdlNFhqQ0ViVTBvNzllRDdDcVBrTzFGQ3FJYXNPNDlBc1pRTmVKcTRFNE40Yys2OW1pQ1FVZC8xZERUQTBQRkJvYmZ6RjY3OG1FRWlxaURtSmJxQmpINGYxczNVZFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjkyMzIyCWZpbGU6Wmhpamlhbi0wLjQuMTYteDY0LXNldHVwLmV4ZQphdUNXbHg2dVVib3VUNVNVTkRIZUIxWlZVZXNCVmF1ajVtcmZxcDdoS0V5WVFsSE9selFOd0FtaktaNG5rRUR2ZnJYSkRRTGtQWDlzMklBd3k5azVDUT09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYmdlNFhqQ0ViVTkzWk1mQ25qMytrNStvRmYxU2JydlpzVHBZRjVPb25wajgraXV2djdjUUYvMGJjOVQ0akpEY2hkU2s4dC9WMkdjQTVzY0ErNGxuMkZCdlllaU1weGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODA1OTYzCWZpbGU6Wmhpamlhbi0wLjQuMTgteDY0LXNldHVwLmV4ZQpyY3pWdWhHS1pXZ2Rod0hkRUd3UHVCdVZQeHptQ0toNzlGbEk3cnZrS0lja1d5UitZczhiSk8zZzkvOG1mNXhkVWt3b1JXSXVJRUpFTjBXUDJvcUpEUT09Cg==",
+      "url": "https://github.com/kange666/codex-remote-download/releases/download/v0.4.18/Zhijian-0.4.18-x64-setup.exe"
     }
   }
 }
